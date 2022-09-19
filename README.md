@@ -11,7 +11,7 @@ Task 1: Create layout variants
 ![Screenshot Dashboard Oracle](image/Task1-b.png)
 
 Task 2: Change the layout to LinearLayout
-![Screenshot Dashboard Oracle](image/task2.png)
+![Screenshot Dashboard Oracle](image/task2b.png)
 
 Task 3: Change the layout to RelativeLayout
-![Screenshot Dashboard Oracle](image/task3.png)
+![Screenshot Dashboard Oracle](image/task3b.png)
