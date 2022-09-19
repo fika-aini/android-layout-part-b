@@ -8,7 +8,7 @@ Kelas: TI-2B
 Hasil Praktikum
 Task 1: Create layout variants
 ![Screenshot Dashboard Oracle](image/task1-a.png)
-![Screenshot Dashboard Oracle](image/Task1-b.png)
+![Screenshot Dashboard Oracle](image/task1-b.png)
 
 Task 2: Change the layout to LinearLayout
 ![Screenshot Dashboard Oracle](image/task2b.png)
